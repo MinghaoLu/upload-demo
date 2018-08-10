@@ -1,0 +1,16 @@
+{
+  "name": "upload-pkg-demo",
+  "version": "1.1.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc ./src/lib/upload.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "3.0.1",
+    "ts-loader": "4.4.2"
+  }
+}
